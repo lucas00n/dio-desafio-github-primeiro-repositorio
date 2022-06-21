@@ -15,7 +15,7 @@
    6) Sendo todos arquivos commitados 
 
    7) Digite "git push origin main" ( Levando todos seus arquivos commitados para o GitHub).
-
+3
       
 
    
